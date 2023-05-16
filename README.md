@@ -48,7 +48,8 @@ Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ.
   [file name] geneexpr.ipynb
   
   
-  ## Content 3: EM, Expectation Maximization Algorithm (commonly used tool for Motif study) 
+  ## Content 3: Expectation Maximization Algorithm (EM algo.) 
+  ##            (as commonly used tool for Motif study) 
   * 2023-05-15
   > A
   
