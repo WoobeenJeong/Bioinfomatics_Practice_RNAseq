@@ -39,8 +39,6 @@ Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ.
      y축=M=log2(fold-change) / x축=A=log2(average expression)
      
   5. TMM 방식으로 분포 차이나는 두 그룹의 발현량을 가중치로 정규화
-  
-     TMM 기본가정 : 상당수 유전자 발현은 변화하지 않음
      
       <p align="left">
   <img src="https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/8d079af5-5b32-4ea7-a821-160a44547082" alt="image" width="auto" height="100">
@@ -53,7 +51,7 @@ Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ.
       
       y축=-log10(p-value) / x축=log2(fold-change)
       
-      <p align="left">
+  
   <img src="https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/2bae2935-d3e5-4256-bca2-3fcdb5959f72" alt="image" width="auto" height="100">
    </p>
   8. Heatmap으로 발현의 up/down reg.이 두 비교집단에서 다른 것을 확인
