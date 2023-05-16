@@ -1,13 +1,22 @@
 # Bioinfomatics_Practice_RNAseq
 Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ. 
 
-  ## Content 1: Sars-Cov2 Alignment
+  # Contents
+  **#1. Genome Alignment**
+  
+  **#2. DEG Analysis**
+  
+  **#3. EM algo. Motif study**
+  
+  * based on RNAseq data (include Ribo-seq, CLIP-seq)
+
+  ## Lesson 1: Sars-Cov2 Alignment
   * 2023-04-10 
   > A
   
   > A
   
-  ## Content 2: DEG Analysis
+  ## Lesson 2: DEG Analysis
     * 2023-05-08
   > Differential gene expression of leishmaniasis
 
@@ -48,8 +57,7 @@ Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ.
   [file name] geneexpr.ipynb
   
   
-  ## Content 3: Expectation Maximization Algorithm (EM algo.) 
-  ##            (as commonly used tool for Motif study) 
+  ## Lesson 3: [ EM algo. ] Expectation Maximization Algorithm  <br/> (as commonly used tool for Motif study) 
   * 2023-05-15
   > A
   
