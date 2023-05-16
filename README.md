@@ -1,8 +1,8 @@
 # Bioinfomatics_Practice_RNAseq
 Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ. 
 
-  ## Content 1: Sars-Cov2 Analysis
-  * 2023-04-2? 
+  ## Content 1: Sars-Cov2 Alignment
+  * 2023-04-10 
   > A
   
   > A
@@ -46,3 +46,11 @@ Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ.
   
   [> CODE for content 3:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/geneexpr.ipynb)
   [file name] geneexpr.ipynb
+  
+  
+  ## Content 3: EM, Expectation Maximization Algorithm (commonly used tool for Motif study) 
+  * 2023-05-15
+  > A
+  
+  > A
+  
