@@ -10,13 +10,13 @@ Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ.
   
   * based on RNAseq data (include Ribo-seq, CLIP-seq)
 
-  ## Lesson 1: Sars-Cov2 Alignment
+  ## Lesson 1: Sars-Cov2 Genome Alignment
   * 2023-04-10 
   > A
   
   > A
   
-  ## Lesson 2: DEG Analysis
+  ## Lesson 2: DEG Analysis on leishmaniasis
     * 2023-05-08
   > Differential gene expression of leishmaniasis
 
@@ -60,8 +60,10 @@ Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ.
    </p>
   10. DAVID에서 타겟의 정보 확인
   
-  [> CODE for content 3:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/geneexpr.ipynb)
-  [file name] geneexpr.ipynb
+  [> CODE for content 3:](https://github.com/WoobeenJeong/Bioinfomatics_Practice_RNAseq/blob/main/002_DEG_analysis.ipynb)
+  [file name] 002_DEG_analysis.ipynb
+  
+  
   
   
   ## Lesson 3: [ EM algo. ] Expectation Maximization Algorithm  <br/> (as commonly used tool for Motif study) 
