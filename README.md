@@ -16,7 +16,8 @@ Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ.
   
   > NCBI SRA 데이터베이스에서 받은 raw data(fasta형식)을 바탕으로 samtools 활용법을 익히고 indexing을 바탕으로하는 alignment와 variant calling을 확인한다. 
   
-      [> CODE for lesson 1:](https://github.com/WoobeenJeong/Bioinfomatics_Practice_RNAseq/blob/main/raw_001_Align_Sars_Cov2.py)
+      [> CODE for lesson 1:]
+      (https://github.com/WoobeenJeong/Bioinfomatics_Practice_RNAseq/blob/main/raw_001_Align_Sars_Cov2.py)
   [file name] raw_001_Align_Sars_Cov2.py
   
   ## Lesson 2: DEG Analysis
@@ -25,8 +26,10 @@ Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ.
 
   > RNA seq 데이터를 바탕으로 transcriptomic profiling으로 다양한 형태의 DEG분석을 실습한다. 
 
-    [> CODE for lesson 2:](https://github.com/WoobeenJeong/Bioinfomatics_Practice_RNAseq/blob/main/002_DEG_analysis.ipynb)
+    [> CODE for lesson 2:]https://github.com/WoobeenJeong/Bioinfomatics_Practice_RNAseq/blob/main/002_DEG_analysis.ipynb
+    
   [file name] 002_DEG_analysis.ipynb
+
   
   ## Lesson 3: [ EM algo. ] Expectation Maximization Algorithm  <br/> (as commonly used tool for Motif study) 
   * 2023-05-15
