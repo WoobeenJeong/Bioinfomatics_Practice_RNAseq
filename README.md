@@ -20,7 +20,7 @@ Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ.
   : raw_001_Align_Sars_Cov2.py
   
   ## Lesson 2: DEG Analysis
-    * 2023-05-08
+  * 2023-05-08
   > Differential gene expression of leishmaniasis
 
   > RNA seq 데이터를 바탕으로 transcriptomic profiling으로 다양한 형태의 DEG분석을 실습한다. 
