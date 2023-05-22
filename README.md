@@ -37,3 +37,14 @@ Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ.
   
    [>CODE 003](https://github.com/WoobeenJeong/Bioinfomatics_Practice_RNAseq/blob/main/003_Motif_EM.ipynb)
   : 003_Motif_EM.ipynb
+
+  
+  ## Lesson 4: GO
+  * 2023-05-15
+  > GO
+  
+  > 설명
+  
+   [>CODE 004](https://github.com/WoobeenJeong/Bioinfomatics_Practice_RNAseq/blob/main/004_GO_GSEA.ipynb)
+  : 004_GO_GSEA.ipynb
+
