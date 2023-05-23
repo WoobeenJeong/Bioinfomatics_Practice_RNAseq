@@ -8,6 +8,8 @@ Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ.
   
   **#3. EM algo. Motif study**
   
+  **#4. GO Analysis & GSEA**
+  
   * based on RNAseq data (include Ribo-seq, CLIP-seq)
 
   ## Lesson 1: Genome Alignment
@@ -39,11 +41,11 @@ Works for classroom: Bioinfomatics &amp; practice 01 in Seoul Nat'l Univ.
   : 003_Motif_EM.ipynb
 
   
-  ## Lesson 4: GO
-  * 2023-05-15
-  > GO
+  ## Lesson 4: Gene Ontology analysis and geneset enrichment analysis
+  * 2023-05-22
+  > Gene function in term and it's abundance on leishmaniasis 
   
-  > 설명
+  > 기존의 분석과 달리, gene ontology(term)상에서 network 및 pathway analysis를 위한 기능적 발현을 중심으로 정량분석을 진행한다.
   
    [>CODE 004](https://github.com/WoobeenJeong/Bioinfomatics_Practice_RNAseq/blob/main/004_GO_GSEA.ipynb)
   : 004_GO_GSEA.ipynb
